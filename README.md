@@ -22,7 +22,7 @@ API tem no total 5 endpoints, como:
 {
   "titulo": "Harry Potter",
   "quantidadepaginas": 300,
-  "disponivel" true,
+  "disponivel" true
 }
 ```
 
@@ -39,7 +39,7 @@ API tem no total 5 endpoints, como:
 {
   "titulo": "Percy Jackson",
   "quantidadepaginas": 200,
-  "disponivel" false,
+  "disponivel" false
 }
 ```
 
@@ -49,7 +49,7 @@ API tem no total 5 endpoints, como:
 {
   "titulo": "Percy Jackson",
   "quantidadepaginas": 200,
-  "disponivel" false,
+  "disponivel" false
 }
 ```
 
@@ -67,7 +67,7 @@ API tem no total 5 endpoints, como:
 {
   "titulo": "Percy Jackson",
   "quantidadepaginas": 200,
-  "disponivel" false,
+  "disponivel" false
 }
 ```
 
@@ -86,7 +86,7 @@ API tem no total 5 endpoints, como:
 {
   "titulo": "Percy Jackson",
   "quantidadepaginas": 200,
-  "disponivel" false,
+  "disponivel" false
 }
 ]
 ```
